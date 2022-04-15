@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    margin-bottom: 0 !important;
+}
+
+body{
+ height: 100%;
+}
+
+nav{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.no-bullets{
+    list-style:none;
+}
+
+.div-wrap{
+    display: table;
+}
+
+.font-weight-5{
+    font-weight: 500;
+}
